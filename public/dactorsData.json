@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. Beauty Saha",
+      "post": "MBBS (SSMC), MD (Oncology)",
+      "Specialist": "Cancer Specialist",
+      "Institute": "National Institute of Cancer Research & Hospital",
+      "address": " House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
+      "VisitingHour": " 5.30pm to 9pm (Sat, Sun, Mon & Wed)",
+      "contact": "Contact Number: +8801915448491",
+      "vistiPrice": "15$",
+      "img": "https://i.ibb.co/d640PyS/man1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Nibedita Roy Dola",
+      "post": "MBBS, BCS (Health), FCPS (OBGYN), MCPS (OBGYN)",
+      "Specialist": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
+      "Institute": "Training in Infertility & Laparoscopy (India)",
+      "address": "Charanchal 20 Bed Hospital, Barisal",
+      "VisitingHour": " 5.30pm to 9pm (Sat, Sun, Mon & Wed)",
+      "contact": "Contact Number: +8801915448491",
+      "vistiPrice": "15$",
+      "img": "https://i.ibb.co/DKkS0D3/women.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Asaduzzaman Biddut",
+      "post": "MBBS (DU), DMU (DIU), MD (Oncology)",
+      "Specialist": "Cancer & Breast Specialist",
+      "Institute": "Mymensingh Medical College & Hospital",
+      "address": " 171, Charpara, Medical College Gate, Mymensingh - 2200",
+      "VisitingHour": ": 5pm to 8pm (Closed: Wed & Friday)",
+      "contact": "Contact Number: +8801915458291",
+      "vistiPrice": "25$",
+      "img": "https://i.ibb.co/2yyMMZK/women3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dr. A.T.M. Sazzad Hossain",
+      "post": "MBBS, MPhil (Radiotherapy), Highly Trained (Malaysia)",
+      "Specialist": "Cancer & Tumor Specialist",
+      "Institute": "Mymensingh Medical College & Hospital",
+      "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+      "VisitingHour": "3pm to 8pm (Only Monday)",
+      "contact": "Contact Number: +8809613787814",
+      "vistiPrice": "105$",
+      "img": "https://i.ibb.co/85Nt3Rt/man2.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Prof. Dr. Md. Aminul Islam",
+      "post": "MBBS, DMRT (DU), FACP (USA)",
+      "Specialist": "Cancer Specialist",
+      "Institute": "Mymensingh Medical College & Hospital",
+      "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+      "VisitingHour": "3pm to 9pm (Sat, Sun, Tue & Wed)",
+      "contact": "Contact Number: +8809613787814",
+      "vistiPrice": "105$",
+      "img": "https://i.ibb.co/qdmppnW/man5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Provati Pandit",
+      "post": "MBBS, BCS (Health), MD (Pediatrics), Training (Neurology)",
+      "Specialist": "Child & Child Neurology Specialist",
+      "Institute": "Mymensingh Medical College & Hospital",
+      "address": "Address: House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
+      "VisitingHour": "3pm to 5pm (Closed: Monday)",
+      "contact": " +8809613787814",
+      "vistiPrice": "105$",
+      "img": "https://i.ibb.co/JxhZVJX/women2.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Prof. Dr. Samresh Chandra Kundu",
+      "post": "MBBS, FCPS (ENT)",
+      "Specialist": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "Institute": "Mymensingh Medical College & Hospital",
+      "address": "Address: House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
+      "VisitingHour": "Visiting Hour: 5.30pm to 9pm (Sat, Sun, Mon & Wed)",
+      "contact": "Contact Number: +8801915448491",
+      "vistiPrice": "105$",
+      "img": "https://i.ibb.co/H4kv26F/man3.jpg"
+    }
+  ]
